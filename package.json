@@ -1,0 +1,7 @@
+{
+  "name": "higby",
+  "version": "1.0.2",
+  "bin": "index.js",
+  "author": "Branden Higby",
+  "license": "MIT"
+}
