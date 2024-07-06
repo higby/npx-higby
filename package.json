@@ -3,5 +3,10 @@
   "version": "1.0.3",
   "bin": "index.js",
   "author": "Branden Higby",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
 }
