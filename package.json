@@ -1,6 +1,6 @@
 {
   "name": "higby",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "bin": "index.js",
   "author": "Branden Higby",
   "license": "MIT",
